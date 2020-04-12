@@ -1,2 +1,2 @@
 # simpledebiancleaner
-clean your sistem junk
+clean your system junk
