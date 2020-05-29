@@ -2,5 +2,6 @@
 This program clean your system of junk.
 
 To install only need download setup.sh and execute in terminal with: 
-sh setup.sh or chmod+x setup.sh && ./setup.sh
+
+<b>sh setup.sh</b> or <b>chmod+x setup.sh && ./setup.sh</b>
 
