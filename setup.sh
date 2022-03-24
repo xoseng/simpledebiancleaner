@@ -19,7 +19,7 @@ apt-get install python3 -y
 apt-get install python3-pil python3-pil.imagetk -y
 apt-get install python3-tk -y
 apt-get install wget -y
-apt-get install zip
+apt-get install zip -y
 
 SCRIPT=$(readlink -f $0);
 
